@@ -1,0 +1,22 @@
+.mktplace-infos span {
+    vertical-align: middle;
+    color: #626264
+}
+
+.mktplace-infos span.mdi-star {
+    color: #facd5d
+}
+
+.mktplace-infos text {
+    font-size: 13px;
+    margin-right: 10px;
+    vertical-align: middle;
+    color: #626264
+}
+
+.mktplace-image {
+    border-radius: 15px;
+    margin-bottom: 20px; 
+}
+
+
